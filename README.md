@@ -1,4 +1,4 @@
-# My Awesome Project
+# Oizys DoS Attack Tool
 
 This project is intended to showcase my programming skills and is not meant to be used for malicious purposes. 
 
